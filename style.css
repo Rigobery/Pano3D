@@ -145,10 +145,12 @@ h2{
 .popular-content{
     display: flex;
     justify-content: space-between;
+    
 }
 
 .popular-content img{
     width: 150px;
+    
 }
 
 
@@ -156,13 +158,16 @@ h2{
     display: grid;
     grid-template-columns: repeat(3,2fr);
     gap: 50px;
+    
 }
 
 .product-1{
     background-color: #2a223a;
+   
 }
 .product-txt{
     padding: 50px 30px;
+    
 }
 
 h3{
